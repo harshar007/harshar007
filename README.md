@@ -1,13 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshar%20A.T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20React%20Native%20%7C%20IoT%20%26%20Data%20Analytics%20Enthusiast&descAlignY=62&descSize=16" />
+0<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20IoT%20%7C%20AI%20%7C%20I%20build%20across%20every%20layer%20of%20software&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Harshar+A.T+%F0%9F%91%8B;React+Native+%7C+Full+Stack+Developer;AI+%26+Data+Science+Student;Building+Smart+Solutions+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Harshar+%F0%9F%91%8B;I+build+across+every+layer+of+software;Mobile+%7C+Web+%7C+IoT+%7C+AI+%7C+Cloud;Passionate+Software+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshar-at&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harshar007&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -18,11 +18,21 @@
 
 ```python
 class HarsharAT:
-    name        = "Harshar A.T"
+    name        = "Harshar"
     location    = "Tiruchengode, Namakkal District, Tamil Nadu, India"
     degree      = "B.Tech – Artificial Intelligence & Data Science"
     college     = "Sengunthar Engineering College (2023 – Present)"
     cgpa        = 7.60
+
+    # I don't limit myself to one domain — I love every layer of software
+    domains     = [
+        "Mobile App Development",   # React Native
+        "Web Development",          # React, Node.js
+        "IoT Systems",              # Hardware + Software integration
+        "AI & Data Analytics",      # ML, Data pipelines
+        "DevOps & Cloud",           # Docker, Linux, Server management
+        "Backend Engineering",      # APIs, Databases, Auth
+    ]
 
     stack       = [
         "React Native", "React", "TypeScript",
@@ -38,16 +48,17 @@ class HarsharAT:
     fun_fact    = "I built a dashboard for Tamil Nadu Police 🚔"
 
     def motto(self):
-        return "Build things that matter. Ship them with quality."
+        return "Every layer of software is a new adventure. I explore them all."
 ```
 
 <br clear="right"/>
 
 - 📧 **Email:** harsharamutha@gmail.com
-- 🌐 **Portfolio:** [View Portfolio](https://github.com/harshar-at)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/harshar-at)
+- 🌐 **Portfolio:** [View Portfolio](https://github.com/harshar007)
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/harshar007)
 - 🏠 **Location:** Tiruchengode, Namakkal, Tamil Nadu, India
 - 🗣️ **Languages:** English (Fluent) • Tamil (Native)
+- 💡 **Approach:** I enjoy working across every field of software — from mobile apps and web to IoT, AI, cloud, and beyond
 
 ---
 
@@ -93,11 +104,11 @@ class HarsharAT:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/harshar-at">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshar-at&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/harshar007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshar007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/harshar-at">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshar-at&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/harshar007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -106,7 +117,7 @@ class HarsharAT:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshar-at&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=harshar007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -114,7 +125,7 @@ class HarsharAT:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshar-at&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshar007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -122,7 +133,7 @@ class HarsharAT:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshar-at&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshar007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
