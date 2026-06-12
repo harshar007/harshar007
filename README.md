@@ -1,4 +1,4 @@
-0<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20IoT%20%7C%20AI%20%7C%20I%20build%20across%20every%20layer%20of%20software&descAlignY=62&descSize=16" />
 </p>
 
@@ -14,7 +14,18 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- 3D AVATAR SETUP INSTRUCTIONS (pick one):
+  OPTION A — ReadyPlayerMe GIF avatar (recommended):
+  1. Go to https://readyplayer.me/ and create your avatar
+  2. Export as GIF: https://models.readyplayer.me/YOUR_AVATAR_ID.gif?animation=idle
+  3. Replace the src below with your GIF URL
+
+  OPTION B — 3D contribution snake (auto-updates via GitHub Action):
+  See the "3D Contribution Snake" section near the bottom of this file
+  for the GitHub Actions workflow to add to your repo.
+-->
+
+<img align="right" width="280" src="https://models.readyplayer.me/64e0ae45e3d93d17b82d2f3a.gif?animation=idle&camera=fullbody&background=transparent" alt="3D Avatar" />
 
 ```python
 class HarsharAT:
@@ -103,9 +114,12 @@ class HarsharAT:
 
 ## 📊 GitHub Stats
 
+<!-- FIX: Removed include_all_commits=true — this was causing the "Could not fetch total commits" error.
+     Using a reliable self-hosted vercel instance URL pattern is also an option if this still fails. -->
+
 <div align="center">
   <a href="https://github.com/harshar007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshar007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshar007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/harshar007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
@@ -118,6 +132,52 @@ class HarsharAT:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harshar007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 3D Contribution Snake
+
+<!-- This snake animation auto-updates via GitHub Actions.
+     SETUP STEPS:
+     1. Create a new public repo named exactly: harshar007 (your GitHub username)
+     2. In that repo, create the file: .github/workflows/snake.yml
+     3. Paste the workflow YAML shown below into that file
+     4. Go to repo Settings → Actions → General → enable "Read and write permissions"
+     5. Run the action once manually from the Actions tab
+     After that it auto-runs daily and updates the snake GIF in your profile repo.
+
+     ══════════ snake.yml contents ══════════
+     name: Generate Snake Animation
+     on:
+       schedule:
+         - cron: "0 0 * * *"
+       workflow_dispatch:
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: Platane/snk@v3
+             with:
+               github_user_name: harshar007
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v3
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ════════════════════════════════════════
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
