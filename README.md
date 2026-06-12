@@ -137,50 +137,6 @@ class HarsharAT:
 
 ---
 
-## 🐍 3D Contribution Snake
-
-<!-- This snake animation auto-updates via GitHub Actions.
-     SETUP STEPS:
-     1. Create a new public repo named exactly: harshar007 (your GitHub username)
-     2. In that repo, create the file: .github/workflows/snake.yml
-     3. Paste the workflow YAML shown below into that file
-     4. Go to repo Settings → Actions → General → enable "Read and write permissions"
-     5. Run the action once manually from the Actions tab
-     After that it auto-runs daily and updates the snake GIF in your profile repo.
-
-     ══════════ snake.yml contents ══════════
-     name: Generate Snake Animation
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: harshar007
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ════════════════════════════════════════
--->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/harshar007/harshar007/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
 ---
 
 ## 📈 Activity Graph
@@ -191,17 +147,6 @@ class HarsharAT:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshar007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" 
-         alt="GitHub Trophies"
-         onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=harshar007&theme=dark&no-frame=true&no-bg=true&row=1&column=4&margin-w=4';" />
-  </a>
-</div>
-
----
 
 ## 💼 Work Experience
 
