@@ -82,8 +82,6 @@ class HarsharAT:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![blender](<img width="407" height="124" alt="image" src="https://github.com/user-attachments/assets/734997a2-fb89-4da6-814a-d723bdcc586d" />
-)
 
 **Frameworks & Libraries**
 
@@ -111,6 +109,7 @@ class HarsharAT:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
@@ -195,7 +194,11 @@ class HarsharAT:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshar007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshar007&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" 
+         alt="GitHub Trophies"
+         onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=harshar007&theme=dark&no-frame=true&no-bg=true&row=1&column=4&margin-w=4';" />
+  </a>
 </div>
 
 ---
